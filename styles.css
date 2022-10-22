@@ -1,7 +1,6 @@
 body {
   color: #2f80ed;
   font-family: Avenir, Helvetica, Arial, sans-serif;
-  height: 100vh;
   margin: 0;
   padding: 0;
   text-align: center;
@@ -9,7 +8,7 @@ body {
 
 .main-image {
   margin: 110px auto 0;
-  display: block;
+  display: block; 
 }
 
 .main-title {
@@ -38,6 +37,7 @@ body {
 
 .footer-text {
   font-weight: normal;
+  margin: 0;
 }
 
 .footer-text > a {
